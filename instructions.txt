@@ -1,0 +1,25 @@
+Instructions
+
+Watch videos in the folders, “00 introduction” “01 Getting Started” and “02 Core Javascript Syntax” to understand the following.
+
+- Intro to JS
+- How to create a JavaScript file and linking it with HTML document.
+- Introduction to variables. (“variables are a way to store a single piece of information, whether a number, or string)
+- Operators ( What are they used for?. “>”, “<”, “<=”, “>=”, “==”, “===” )
+- Introduction to the console.
+- Discuss Conditional Statements
+- Discuss Loops ( while loop and for loop )
+- Functions ( “It is a combination of several statements that either take parameters or not, which then carry out a specific task.”)
+
+
+
+
+Assignment
+
+1. Write a JavaScript program that accept two integers and display the larger.
+
+2. Write a JavaScript program to check two given numbers and return true if one of the number is 50 or if their sum is 50.
+
+3. Write a JavaScript program to find the area of a triangle where lengths of the three of its sides are 5, 6, 7. 
+
+4. Write a loop that displays number 1 up to 50.
